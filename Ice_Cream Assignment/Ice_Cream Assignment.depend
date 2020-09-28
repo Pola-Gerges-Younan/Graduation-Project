@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1596926819 source:f:\amit lerning tasks\ice_cream assignment\ice_cream.c
+	"Ice_Cream.h"
+
+1597401665 source:f:\amit lerning tasks\ice_cream assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ice_Cream.h"
+	"Ice_Cream.h"
+
+1597401655 f:\amit lerning tasks\ice_cream assignment\ice_cream.h
+
+1596926819 source:f:\amit lerning tasks\projects\ice_cream assignment\ice_cream.c
+	"Ice_Cream.h"
+
+1597401655 f:\amit lerning tasks\projects\ice_cream assignment\ice_cream.h
+
+1597549917 source:f:\amit lerning tasks\projects\ice_cream assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ice_Cream.h"
+
