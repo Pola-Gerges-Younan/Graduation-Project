@@ -16,6 +16,12 @@ int main()
        printf("\n");
    }
 
+   myFunction();
+
     return 0 ;
 }
 
+void myFunction()
+{
+    printf("Hi guys");
+}
